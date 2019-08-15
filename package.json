@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["json-to-form","json","form"],
   "author": "Israel Júnior <israeljunior.net@gmail.com>",
   "repository": {
     "type": "git",
