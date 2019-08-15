@@ -1,0 +1,26 @@
+{
+  "name": "json-to-form",
+  "version": "1.0.0",
+  "description": "A lightweight script to generate forms from objects or JSON files.",
+  "main": "./dist/json2form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Israel Júnior <israeljunior.net@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/israeljunior/json2form"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "browser-sync": "^2.26.7",
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
