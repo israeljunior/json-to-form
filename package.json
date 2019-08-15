@@ -2,7 +2,7 @@
   "name": "json-to-form",
   "version": "1.0.0",
   "description": "A lightweight script to generate forms from objects or JSON files.",
-  "main": "./dist/json2form.js",
+  "main": "./dist/json-to-form.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
   "author": "Israel Júnior <israeljunior.net@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "http://github.com/israeljunior/json2form"
+    "url": "http://github.com/israeljunior/json-to-form"
   },
   "license": "MIT",
   "devDependencies": {
